@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GoldenRatio", "GoldenRatio\GoldenRatio.pyproj", "{33DFDE6B-6A38-496C-8816-C0A880D73C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33DFDE6B-6A38-496C-8816-C0A880D73C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DFDE6B-6A38-496C-8816-C0A880D73C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D963E902-790F-4193-B3D2-6BFC7BA2684E}
+	EndGlobalSection
+EndGlobal
